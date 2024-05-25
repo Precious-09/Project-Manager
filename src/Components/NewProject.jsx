@@ -1,5 +1,5 @@
 import Input from "./Input"
-import Button from "./button"
+import Button from "./Button"
 import { useRef } from "react"
 import Modal from "./Modal"
 
